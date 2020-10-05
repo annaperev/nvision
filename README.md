@@ -1,5 +1,7 @@
 # SpringBoot RestfulAPI using swagger,H2Database and JPA
 
+Run main method in com/nvision/printstat/SpringSwaggerJpaRestH2Application.java
+
 H2 Databse  http://localhost:8089/h2/ 
 
 Restful endpoints with swagger http://localhost:8089/swagger-ui.html
