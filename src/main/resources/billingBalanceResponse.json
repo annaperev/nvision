@@ -1,0 +1,39 @@
+{
+  "balanceActivity": [
+    {
+      "type": "Перерасчет (кред.корр.)",
+      "date": "2020-06-10T19:55:56",
+      "action": "Кредитовая корректировка",
+      "amount": {
+        "amount": 51.38,
+        "units": "RUR"
+      },
+      "bucketCode": "PAYMENT",
+      "bucketBalance": null,
+      "amountAfter": {
+        "amount": 9948.62,
+        "units": "RUR"
+      },
+      "id": 110862429,
+      "paymentAttributes": null
+    },
+    {
+      "type": "Перерасчет (кред.корр.)",
+      "date": "2020-05-29T10:18:27",
+      "action": "Кредитовая корректировка",
+      "amount": {
+        "amount": 1000,
+        "units": "RUR"
+      },
+      "bucketCode": "PAYMENT",
+      "bucketBalance": null,
+      "amountAfter": {
+        "amount": 9000,
+        "units": "RUR"
+      },
+      "id": 110860918,
+      "paymentAttributes": null
+    }
+  ],
+  "error": null
+}
