@@ -1,12 +1,9 @@
 package com.nvision.wats2.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nvision.printstat.entity.Job;
-import com.nvision.printstat.service.JobService;
 import com.nvision.wats2.dto.BillingBalanceHistoryResponse;
 import lombok.extern.slf4j.Slf4j;
 import net.minidev.json.JSONObject;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -25,7 +22,8 @@ public class BillingBalanceController {
 //2020-01-23T12:21:08.306Z
 
     @GetMapping(value = "/fbf.facade.billing/balancemanager/release/api/BalanceManagement/balanceActivity", produces = MediaType.APPLICATION_JSON_VALUE)
-    public @ResponseBody ResponseEntity<JSONObject> getJob(
+    public @ResponseBody
+    ResponseEntity<JSONObject> getJob(
             @RequestParam(required = false) String code,
             @RequestParam(required = false) String identificationType,
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss[.SSS]'Z'") LocalDateTime startDateTime,
@@ -50,7 +48,7 @@ public class BillingBalanceController {
         } catch (Exception ex) {
             ex.printStackTrace();
             JSONObject entity = new JSONObject();
-            entity.put("что-то пошло не так",null);
+            entity.put("что-то пошло не так", null);
             return new ResponseEntity<>(entity, HttpStatus.OK);
         }
     }

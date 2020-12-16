@@ -1,0 +1,28 @@
+{
+  "$type": "Models.DocumentModel.PreBillDocument, Models",
+  "relatedParty": {
+    "action": "no_Change",
+    "additionalPartyIdentification": {
+      "code": "277300092034",
+      "identificationType": "personalAccount"
+    }
+  },
+  "documentCharacteristic": [
+    {
+      "name": "docType",
+      "value": "PreBill"
+    }
+  ],
+  "format": "pdf",
+  "validFor": 0,
+  "streaming": false,
+  "deliveryType": "sync",
+  "contact": {
+    "$type": "Models.Email, Models",
+    "emailAddress": "user@mts.ru"
+  },
+  "amount": {
+    "amount": "104",
+    "units": "RUB"
+  }
+}

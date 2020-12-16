@@ -2,7 +2,6 @@ package com.nvision.printstat.service;
 
 import com.nvision.printstat.entity.Job;
 import com.nvision.printstat.repository.JobRepository;
-import com.nvision.printstat.repository.JobRepositoryCustom;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -19,8 +18,8 @@ public class JobServiceImpl implements JobService {
 
     @Override
     public List<Job> findByUserAndTypeAndDeviceAndTimeAfterAndTimeBefore(String user, String type, String device,
-                                                LocalDateTime timeFrom, LocalDateTime timeTo) {
-        return jobRepository.findByUserAndTypeAndDeviceAndTimeAfterAndTimeBefore(user,type,device,timeFrom,timeTo);
+                                                                         LocalDateTime timeFrom, LocalDateTime timeTo) {
+        return jobRepository.findByUserAndTypeAndDeviceAndTimeAfterAndTimeBefore(user, type, device, timeFrom, timeTo);
     }
 
 

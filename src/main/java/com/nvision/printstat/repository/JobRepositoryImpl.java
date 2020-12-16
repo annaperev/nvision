@@ -2,11 +2,13 @@ package com.nvision.printstat.repository;
 
 import com.nvision.printstat.entity.Job;
 
-import javax.persistence.Entity;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
-import javax.persistence.criteria.*;
+import javax.persistence.criteria.CriteriaBuilder;
+import javax.persistence.criteria.CriteriaQuery;
+import javax.persistence.criteria.Predicate;
+import javax.persistence.criteria.Root;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
@@ -25,20 +27,20 @@ public class JobRepositoryImpl implements JobRepositoryCustom {
 
         List<Predicate> filters = new ArrayList<>();
 
-        if(user != null){
+        if (user != null) {
             filters.add(cb.equal(jobRoot.get("user"), user));
         }
-        if(type != null){
+        if (type != null) {
             filters.add(cb.equal(jobRoot.get("type"), type));
         }
-        if(device != null){
+        if (device != null) {
             filters.add(cb.equal(jobRoot.get("device"), device));
         }
-        if(timeFrom != null){
+        if (timeFrom != null) {
             filters.add(cb.greaterThanOrEqualTo(jobRoot.get("time"), timeFrom));
         }
 
-        if(timeTo != null){
+        if (timeTo != null) {
             filters.add(cb.lessThanOrEqualTo(jobRoot.get("time"), timeTo));
         }
 
