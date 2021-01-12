@@ -1,0 +1,64 @@
+{
+  "balanceActivity": [
+    {
+      "type": "Банковская карта MasterCard (E-WALLET интернет платеж с сайта МТС)",
+      "date": "2020-12-28T14:41:55",
+      "action": "Регистрация платежа",
+      "amount": {
+        "amount": 10,
+        "units": "RUR"
+      },
+      "bucketCode": "PAYMENT",
+      "bucketBalance": null,
+      "amountAfter": {
+        "amount": -4990,
+        "units": "RUR"
+      },
+      "id": 9474134279,
+      "paymentAttributes": [
+        {
+          "name": "uprs_member_code",
+          "value": "138020     "
+        },
+        {
+          "name": "terminal_type",
+          "value": "6"
+        },
+        {
+          "name": "uprs_ext_receiver_code",
+          "value": "1380209551 "
+        },
+        {
+          "name": "ext_transaction_number_long",
+          "value": "749845695"
+        },
+        {
+          "name": "uprs_transaction_number_long",
+          "value": "1506495241601"
+        },
+        {
+          "name": "date_of_payment_terminal",
+          "value": "28.12.2020 14:41:54"
+        },
+        {
+          "name": "uprs_transaction_number",
+          "value": "1506495241601"
+        },
+        {
+          "name": "terminal_number",
+          "value": "00000000000.00000000001"
+        },
+        {
+          "name": "uprs_ext_receiver_name",
+          "value": "МТС-Банк E-WALLET_эк"
+        },
+        {
+          "name": "ext_receive_transaction_number",
+          "value": "749845695"
+        }
+      ],
+      "formattedCounterAmount": null
+    }
+  ],
+  "error": null
+}
