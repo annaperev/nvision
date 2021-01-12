@@ -1,0 +1,9 @@
+{
+  "bucket": null,
+  "error": {
+    "code": 0,
+    "reason": "Balance is not accessible:\r\nOne or more errors occurred. --> One or more errors occurred. --> GetAccountInfo for PA 277300018055 failed with result SystemError error message BalanceStorage.FindBalancesOutputData.ResultDetail=DatabaseError [bulk index=0], Status=RequestFailed, ResultCode=-102",
+    "message": "get_balance_error",
+    "status": null
+  }
+}

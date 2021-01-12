@@ -1,5 +1,7 @@
 package com.nvision.wats2.dto;
 
+import java.util.List;
+
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 
@@ -23,5 +25,5 @@ public class BillingBalanceActivityDto {
 
     private String id;
 
-    private String paymentAttributes;
+    private List<BillingBalanceHistoryPaymentAttributes> paymentAttributes;
 }
