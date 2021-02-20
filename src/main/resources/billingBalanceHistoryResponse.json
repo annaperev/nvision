@@ -1,62 +1,927 @@
 {
   "balanceActivity": [
     {
-      "type": "Банковская карта MasterCard (E-WALLET интернет платеж с сайта МТС)",
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-01-12T17:55:47",
+      "action": "1 Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T17:50:29",
+      "action": "2 Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-01-12T17:50:21",
+      "action": "3 Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-11T17:39:18",
+      "action": "4 Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T17:16:14",
+      "action": "5 Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T15:36:49",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Разовые услуги",
+      "date": "2021-01-12T14:56:47",
+      "action": "VATS: Дополнительные линии: Добавление услуги",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": null,
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T14:56:11",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T14:54:14",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T13:29:28",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T11:40:50",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-12T11:19:02",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-11T13:38:40",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2021-01-11T11:57:42",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-30T10:11:12",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:11:10",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:09:29",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:08:52",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:08:39",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:07:57",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:07:40",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T18:07:02",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:55:06",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:55:01",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:53:37",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:53:23",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:53:12",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:52:49",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:52:24",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:52:13",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:47:14",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:46:57",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:46:47",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:46:30",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:46:17",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:45:50",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:45:32",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:45:13",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:44:24",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:43:54",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:43:48",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:43:43",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:43:26",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:42:35",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:42:06",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:41:57",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:36:19",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T17:01:26",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T16:57:01",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T16:55:55",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-29T16:55:34",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -4990.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Платежи и корректировки",
       "date": "2020-12-28T14:41:55",
       "action": "Регистрация платежа",
       "amount": {
-        "amount": 10,
-        "units": "RUR"
+        "amount": 10.0,
+        "units": "RUB"
       },
-      "bucketCode": "PAYMENT",
-      "bucketBalance": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
       "amountAfter": {
-        "amount": -4990,
-        "units": "RUR"
+        "amount": -4990.0,
+        "units": "RUB"
       },
-      "id": 9474134279,
-      "paymentAttributes": [
-        {
-          "name": "uprs_member_code",
-          "value": "138020     "
-        },
-        {
-          "name": "terminal_type",
-          "value": "6"
-        },
-        {
-          "name": "uprs_ext_receiver_code",
-          "value": "1380209551 "
-        },
-        {
-          "name": "ext_transaction_number_long",
-          "value": "749845695"
-        },
-        {
-          "name": "uprs_transaction_number_long",
-          "value": "1506495241601"
-        },
-        {
-          "name": "date_of_payment_terminal",
-          "value": "28.12.2020 14:41:54"
-        },
-        {
-          "name": "uprs_transaction_number",
-          "value": "1506495241601"
-        },
-        {
-          "name": "terminal_number",
-          "value": "00000000000.00000000001"
-        },
-        {
-          "name": "uprs_ext_receiver_name",
-          "value": "МТС-Банк E-WALLET_эк"
-        },
-        {
-          "name": "ext_receive_transaction_number",
-          "value": "749845695"
-        }
-      ],
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (Полякова Анна Вячеславовна)",
+      "date": "2020-12-24T16:10:24",
+      "action": "Запрос баланса (Полякова Анна Вячеславовна)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-24T10:25:16",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-24T05:34:12",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "date": "2020-12-23T13:25:48",
+      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (Антифрод 4)",
+      "date": "2020-12-22T17:08:41",
+      "action": "Запрос баланса (Антифрод 4)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Запрос баланса (Попов Денис Анатольевич)",
+      "date": "2020-12-22T16:39:01",
+      "action": "Запрос баланса (Попов Денис Анатольевич)",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Разовые услуги",
+      "date": "2020-12-22T11:53:59",
+      "action": "Выбор номера Платиновый",
+      "amount": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": {
+        "amount": -5000.0,
+        "units": "RUB"
+      },
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Разовые услуги",
+      "date": "2020-12-22T11:53:59",
+      "action": "VATS: Виртуальная АТС Demo: Добавление услуги",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": null,
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Разовые услуги",
+      "date": "2020-12-22T11:53:59",
+      "action": "Ежемесячная плата за тариф: Добавление услуги",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": null,
+      "id": null,
+      "paymentAttributes": null,
+      "formattedCounterAmount": null
+    },
+    {
+      "type": "Разовые услуги",
+      "date": "2020-12-22T11:53:59",
+      "action": "Продажа контракта",
+      "amount": null,
+      "bucketCode": "MMA",
+      "bucketBalance": "Основной денежный баланс",
+      "amountAfter": null,
+      "id": null,
+      "paymentAttributes": null,
       "formattedCounterAmount": null
     }
   ],

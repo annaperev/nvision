@@ -1,9 +1,66 @@
+
 {
-  "bucket": null,
-  "error": {
-    "code": "fjkkfe",
-    "reason": "fkf",
-    "message":"eifere",
-    "status": "ivjker"
-  }
+  "bucket": [
+    {
+      "id": "MMA",
+      "name": "Main Balance",
+      "bucketType": "Balance",
+      "remainedAmount": {
+        "amount": 0.32,
+        "units": "810"
+      },
+      "formattedCounterAmount": null
+    },
+    {
+      "id": "vatsM",
+      "name": "Тест. VATS: Виртуальная АТС M",
+      "bucketType": "Counter",
+      "remainedAmount": {
+        "amount": 10,
+        "units": "810"
+      },
+      "formattedCounterAmount": null
+    },
+    {
+      "id": "VPDR1000",
+      "name": "Тест. VATS: Пакет минут ДР 1 000",
+      "bucketType": "Counter",
+      "remainedAmount": {
+        "amount": 100,
+        "units": "810"
+      },
+      "formattedCounterAmount": null
+    },
+    {
+      "id": "VPDR3000",
+      "name": "Тест. VATS: Пакет минут ДР 3 000",
+      "bucketType": "Counter",
+      "remainedAmount": {
+        "amount": 50,
+        "units": null
+      },
+      "formattedCounterAmount": "осталось 0 Мб"
+    },
+    {
+      "id": "VPDRM500",
+      "name": "Тест. VATS: Пакет минут ДР+МГ 500",
+      "bucketType": "Counter",
+      "remainedAmount": {
+        "amount": 3,
+        "units": null
+      },
+      "formattedCounterAmount": "текущее значение 2 шт"
+    },
+    {
+      "id": "VPDRM1000",
+      "name": "Тест. VATS: Пакет минут ДР+МГ 1 000",
+      "bucketType": "Counter",
+      "remainedAmount": {
+        "amount": 3,
+        "units": null
+      },
+      "formattedCounterAmount": "текущее значение 2 шт"
+    }
+  ],
+  "error": null
 }

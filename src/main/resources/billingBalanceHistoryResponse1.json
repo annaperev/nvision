@@ -1,582 +1,63 @@
 {
   "balanceActivity": [
     {
-      "type": "Постоянные услуги",
-      "date": "2020-12-18T13:43:18",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 500",
+      "type": "Банковская карта MasterCard (E-WALLET интернет платеж с сайта МТС)",
+      "date": "2020-12-28T14:41:55",
+      "action": "Регистрация платежа",
       "amount": {
-        "amount": -725.0,
+        "amount": 10,
         "units": "RUR"
       },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
+      "bucketCode": "PAYMENT",
+      "bucketBalance": null,
       "amountAfter": {
-        "amount": 27255.0001,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Постоянные услуги",
-      "date": "2020-12-18T12:50:21",
-      "action": "Тест. VATS: Пакет минут ДР 15 000",
-      "amount": {
-        "amount": -18600.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 27980.0001,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Постоянные услуги",
-      "date": "2020-12-18T08:15:26",
-      "action": "Тест. VATS: Пакет минут ДР 10 000",
-      "amount": {
-        "amount": -12500.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 46580.0001,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T18:03:07",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 500: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T17:56:18",
-      "action": "Тест. VATS: Пакет минут ДР 10 000: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T16:43:42",
-      "action": "Тест. VATS: Пакет минут ДР 10 000: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T16:43:12",
-      "action": "Тест. VATS: Пакет минут ДР 15 000: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T16:24:12",
-      "action": "Тест. VATS: Пакет минут ДР 15 000: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T16:23:37",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 500: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T13:43:29",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 500: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T13:35:56",
-      "action": "Тест. VATS: Пакет минут ДР 15 000: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T12:50:30",
-      "action": "Тест. VATS: Пакет минут ДР 15 000: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T09:01:00",
-      "action": "Тест. VATS: Пакет минут ДР 10 000: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T08:15:35",
-      "action": "Тест. VATS: Пакет минут ДР 10 000: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-18T08:07:57",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 15 000: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Постоянные услуги",
-      "date": "2021-01-15T00:00:00",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 15 000",
-      "amount": {
-        "amount": -20100.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 59110.0001,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
-      "date": "2020-12-16T13:53:30",
-      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 79210.000112,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
-      "date": "2020-12-16T13:40:44",
-      "action": "Запрос баланса (sa0000vatsepm sa0000vatsepm)",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 79210.000112,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-16T12:02:11",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 15 000: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-16T11:41:44",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 15 000: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Постоянные услуги",
-      "date": "2020-12-15T13:51:47",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 15 000",
-      "amount": {
-        "amount": -20100.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 79210.0001,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Постоянные услуги",
-      "date": "2020-12-15T13:38:09",
-      "action": "Тест. VATS: Виртуальная АТС Start",
-      "amount": {
-        "amount": -690.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 99310.0001,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Запрос баланса (Тютюнова Любовь Георгиевна)",
-      "date": "2020-12-15T15:41:30",
-      "action": "Запрос баланса (Тютюнова Любовь Георгиевна)",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 100000.000112,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-15T13:51:55",
-      "action": "Тест. VATS: Пакет минут ДР+МГ 15 000: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-15T13:38:21",
-      "action": "Тест. VATS: Виртуальная АТС Start: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-15T13:28:24",
-      "action": "Смена тарифного плана. Бесплатно",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-12-15T13:28:12",
-      "action": "VPBX: e-mail: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Запрос баланса (Славгородская Элла)",
-      "date": "2020-12-08T17:38:26",
-      "action": "Запрос баланса (Славгородская Элла)",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 100000.000112,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-11-28T09:28:07",
-      "action": "Блокировка входящих SMS от банков  на 24 часа после замены SIM-карты: Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-11-27T19:27:47",
-      "action": "Дозвон в IVR КЦ при Замене SIM (Метка): Удаление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-11-27T09:27:27",
-      "action": "Дозвон в IVR КЦ при Замене SIM (Метка): Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-11-27T09:27:27",
-      "action": "Замена SIM-карты",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Разовые услуги",
-      "date": "2020-11-27T09:27:27",
-      "action": "Блокировка входящих SMS от банков  на 24 часа после замены SIM-карты: Добавление услуги",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
-    },
-    {
-      "type": "Запрос баланса (Афиногенов Михаил)",
-      "date": "2020-10-15T16:59:16",
-      "action": "Запрос баланса (Афиногенов Михаил)",
-      "amount": {
-        "amount": 0.0,
-        "units": "RUR"
-      },
-      "bucketCode": "MMA",
-      "bucketBalance": "Основной денежный баланс",
-      "amountAfter": {
-        "amount": 100000.000112,
-        "units": "RUR"
-      },
-      "id": null,
-      "paymentAttributes": null
+        "amount": -4990,
+        "units": "RUR"
+      },
+      "id": 9474134279,
+      "paymentAttributes": [
+        {
+          "name": "uprs_member_code",
+          "value": "138020     "
+        },
+        {
+          "name": "terminal_type",
+          "value": "6"
+        },
+        {
+          "name": "uprs_ext_receiver_code",
+          "value": "1380209551 "
+        },
+        {
+          "name": "ext_transaction_number_long",
+          "value": "749845695"
+        },
+        {
+          "name": "uprs_transaction_number_long",
+          "value": "1506495241601"
+        },
+        {
+          "name": "date_of_payment_terminal",
+          "value": "28.12.2020 14:41:54"
+        },
+        {
+          "name": "uprs_transaction_number",
+          "value": "1506495241601"
+        },
+        {
+          "name": "terminal_number",
+          "value": "00000000000.00000000001"
+        },
+        {
+          "name": "uprs_ext_receiver_name",
+          "value": "МТС-Банк E-WALLET_эк"
+        },
+        {
+          "name": "ext_receive_transaction_number",
+          "value": "749845695"
+        }
+      ],
+      "formattedCounterAmount": null
     }
   ],
   "error": null
